@@ -1,3 +1,5 @@
+#gambling store
+
 print("------------Welcome to Zenin gambling------------")
 
 for i in range(5):
